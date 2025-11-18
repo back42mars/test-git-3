@@ -12,3 +12,5 @@
 11 - git branch - показывает на какой мы ветке и какие ветки еще есть
 12 - git branch [name] - создаем новый бренч
 13 - git checkout [branch_name] - перемещаемся в бренч, по веткам
+14 - git pull [rep_link] [branch_name]
+15 - git branch -d [name] - чтобы удалить локально ветку из vscode
